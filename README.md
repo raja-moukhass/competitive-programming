@@ -29,8 +29,9 @@ Programming is fun, programming is an exercise for your brain, programming is a 
 - https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
 
  ## videos 
- 
+- https://www.youtube.com/watch?v=MyeV2_tGqvw
 - https://www.youtube.com/watch?v=IB2ESpnlAeE&list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE&index=57 (hindi)
 - https://www.youtube.com/watch?v=bVKHRtafgPc&list=PLz4C07Cc_cunpeCSSGibS6Nyceuv7-l89&index=2 (Steps and Mistakes)
+
 
 
