@@ -1,4 +1,5 @@
 # competitive-programming
+Programming is fun, programming is an exercise for your brain, programming is a mental sport and when this sport is held over the internet involving sport programmer as a contestant then it is called Competitive Programming.
 ### Online judges :
 
 - https://codeforces.com
