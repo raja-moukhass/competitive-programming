@@ -13,9 +13,9 @@
 - https://Topcoder.com
 - www.1337cpc.team
 
-
- ## Books :  https://drive.google.com/open?id=1YqG23bRjKZG92kLPQ58a8PaYkj2-iEn0
-Websites :
+ ## Books 
+ -  https://drive.google.com/open?id=1YqG23bRjKZG92kLPQ58a8PaYkj2-iEn0
+## Websites :
 
 - http://www.cp-algorithms.com (top)
 - http://web.stanford.edu/class/cs97si/
