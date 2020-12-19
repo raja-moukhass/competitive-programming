@@ -35,6 +35,7 @@ Programming is fun, programming is an exercise for your brain, programming is a 
 - https://www.youtube.com/c/Errichto/playlists
 ## alogrithms 
 - Brainfuck algorithms https://fatiherikli.github.io/brainfuck-visualizer/#
+- https://www.youtube.com/watch?v=7ENFeb-J75k
 
 
 
